@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pxVKVtY6eGU+d8ZPSEtYY7Lfjeaw6EAme39AtDnxV3M=",
+  "Source": "IAC.Api",
+  "BasePath": "_content/IAC.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

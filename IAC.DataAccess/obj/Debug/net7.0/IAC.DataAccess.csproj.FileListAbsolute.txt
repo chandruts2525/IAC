@@ -1,0 +1,12 @@
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\bin\Debug\net7.0\IAC.DataAccess.deps.json
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\bin\Debug\net7.0\IAC.DataAccess.dll
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\bin\Debug\net7.0\IAC.DataAccess.pdb
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.AssemblyInfo.cs
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.dll
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\refint\IAC.DataAccess.dll
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\IAC.DataAccess.pdb
+C:\Users\kperu\Source\Repos\FCC.nextgen.saas\src\Services\Administration\IAC\IAC.DataAccess\obj\Debug\net7.0\ref\IAC.DataAccess.dll

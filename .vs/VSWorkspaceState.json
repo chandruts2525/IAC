@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\IAC.Api",
+    "\\IAC.DataAccess\\IRepository",
+    "\\IAC.Service"
+  ],
+  "SelectedNode": "\\IAC.Service\\Commands",
+  "PreviewInSolutionExplorer": false
+}

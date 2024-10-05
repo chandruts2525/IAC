@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "IAC.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/IAC.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IAC.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IAC.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../IAC.DataAccess/IAC.DataAccess.csproj",
+      "msbuildProject": "../IAC.DataAccess/IAC.DataAccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "IAC.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kperu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kperu\\Source\\Repos\\FCC.nextgen.saas\\src\\Services\\Administration\\IAC\\IAC.Service\\IAC.Service.csproj",
+      "projectName": "IAC.Service",
+      "projectPath": "C:\\Users\\kperu\\Source\\Repos\\FCC.nextgen.saas\\src\\Services\\Administration\\IAC\\IAC.Service\\IAC.Service.csproj",
+      "packagesPath": "C:\\Users\\kperu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kperu\\Source\\Repos\\FCC.nextgen.saas\\src\\Services\\Administration\\IAC\\IAC.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kperu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\kperu\\Source\\Repos\\FCC.nextgen.saas\\src\\Services\\Administration\\IAC\\IAC.DataAccess\\IAC.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kperu\\Source\\Repos\\FCC.nextgen.saas\\src\\Services\\Administration\\IAC\\IAC.DataAccess\\IAC.DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
